@@ -6,3 +6,5 @@ This is NetBRIC S5000 SDK for C language. This SDK provides the ability of full 
 4. Monitor hardware status<br>
 5. Monitor runtime status<br>
 6. Data access, synchronize and asynchronize read/write<br>
+
+Interface to KVM/Qemu is also available.
